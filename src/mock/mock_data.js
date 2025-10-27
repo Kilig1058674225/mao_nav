@@ -446,42 +446,36 @@ export const mockData = {
     },
     {
       "id": "office",
-      "name": "办公协作",
-      "icon": "💼",
+      "name": "个人站点",
+      "icon": "🌐",
       "order": 9,
       "sites": [
         {
           "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
-          "description": "全能工作空间",
-          "icon": "/sitelogo/www.notion.so.ico"
+          "name": "LeaFlow签到",
+          "url": "http://125.208.21.128:11280/",
+          "description": "leaflow签到"
         },
         {
           "id": "slack",
-          "name": "Slack",
-          "url": "https://slack.com",
-          "description": "团队协作工具",
-          "icon": "/sitelogo/slack.com.ico"
+          "name": "Gpt-Load",
+          "url": "http://125.208.21.128:10714",
+          "description": "Gpt-Load号池"
         },
         {
           "id": "trello",
-          "name": "Trello",
-          "url": "https://trello.com",
-          "description": "项目管理工具",
-          "icon": "/sitelogo/trello.com.ico"
+          "name": "Gaizka Email",
+          "url": "https://email.668866888.xyz",
+          "description": "无限邮"
         },
         {
           "id": "feishu",
-          "name": "飞书",
-          "url": "https://www.feishu.cn",
-          "description": "企业协作平台",
-          "icon": "/sitelogo/www.feishu.cn.ico"
+          "name": "kin api",
+          "url": "https://ikun.668866888.xyz",
+          "description": "api中转站"
         }
       ]
     }
   ],
-  "title": "Ikun导航",
-  "_fileSha": "8fc6c996455538819619d3889335750c2ca8f238",
-  "search": "duckduckgo"
+  "title": "Ikun导航"
 }
