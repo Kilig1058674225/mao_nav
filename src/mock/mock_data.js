@@ -470,7 +470,7 @@ export const mockData = {
         },
         {
           "id": "feishu",
-          "name": "kin api",
+          "name": "ikun api",
           "url": "https://ikun.668866888.xyz",
           "description": "api中转站"
         }
